@@ -1,0 +1,3 @@
+class AppBlocProviders{ 
+  List<BlocPro>
+}
